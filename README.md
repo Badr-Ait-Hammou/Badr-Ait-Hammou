@@ -1,4 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/121731124/222512682-c58ddaa2-f914-49a3-aa53-476d22d73dd2.gif)](https://github.com/Badr-Ait-Hammou)
+
+<img align="right" alt="coding" width="1100" height="300" src="https://user-images.githubusercontent.com/121731124/222512682-c58ddaa2-f914-49a3-aa53-476d22d73dd2.gif"></img>
 <h1 align="center">Hi 👋, I'm Badr Ait Hammou</h1>
 <h3 align="center">A software engineering student</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
@@ -11,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [aithammoubadr.me](https://aithammoubadr.me/)
 
-- 📫 How to reach me **badraithammou@gmail.com**
+- 📫 How to reach me **badraithammou2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
