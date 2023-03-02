@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [aithammoubadr.me](aithammoubadr.me)
+- 👨‍💻 All of my projects are available at [aithammoubadr.me](https://aithammoubadr.me/)
 
 - 📫 How to reach me **badraithammou@gmail.com**
 
