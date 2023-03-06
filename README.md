@@ -10,12 +10,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=badr-ait-hammou&label=Profile%20views&color=0e75b6&style=flat" alt="badr-ait-hammou" /> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p align="center">- 👨‍💻 All of my projects are available at [aithammoubadr.me](https://aithammoubadr.me/)</p>
-
-<p align="center">- 📫 How to reach me **badraithammou2000@gmail.com**</p>
-
 <h3 align="center">Connect with me:</h3>
+<p align="center">- 👨‍💻 All of my projects are available at aithammoubadr.me</p>
+
+<p align="center">- 📫 How to reach me badraithammou2000@gmail.com</p>
+
+
 <p align="center">
 </p>
 
