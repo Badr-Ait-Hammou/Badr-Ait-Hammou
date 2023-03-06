@@ -3,7 +3,6 @@
 </img>
 <h1 align="center">Hi 👋, I'm Badr Ait Hammou</h1>
 <h3 align="center">A software engineering student</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121731124/222517476-17471042-ca43-483c-8630-90655b978840.gif"></img>
 
 
 
