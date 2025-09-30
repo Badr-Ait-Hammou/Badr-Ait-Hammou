@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width="1100" height="300" src="https://user-images.githubusercontent.com/121731124/222512682-c58ddaa2-f914-49a3-aa53-476d22d73dd2.gif">
 </img>
 <h1 align="center">Hi 👋, I'm Badr Ait Hammou</h1>
-<h3 align="center">A software engineering student</h3>
+<h3 align="center">A software engineer</h3>
 
 
 
